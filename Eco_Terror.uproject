@@ -10,10 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "OpenImageDenoise",
-			"Enabled": false
 		}
 	]
 }
